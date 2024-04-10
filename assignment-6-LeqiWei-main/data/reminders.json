@@ -1,0 +1,49 @@
+[
+    {
+        "name":"Class",
+        "description":"Morning Class",
+        "appDate":"02-02-2023",
+        "time":"08:20",
+        "status":true
+    },
+    {
+        "name":"Hospital test",
+        "description":"Health check",
+        "appDate":"02-04-2023",
+        "time":"11:30",
+        "status":false
+    },
+    
+    {
+        "name":"Code Review",
+        "description":"6150 Code Review",
+        "appDate":"02-16-2023",
+        "time":"14:00",
+        "status":true
+    },
+    
+    {
+        "name":"TA Hours",
+        "description":"5100 Ta hours",
+        "appDate":"02-18-2023",
+        "time":"09:00",
+        "status":false
+    },
+
+    {
+        "name":"Mid Term",
+        "description":"6150 Mid Term",
+        "appDate":"03-01-2023",
+        "time":"18:00",
+        "status":false
+    },
+
+    {
+        "name":"Game",
+        "description":"Super Bowl",
+        "appDate":"02-12-2023",
+        "time":"18:00",
+        "status":false
+    }
+
+]

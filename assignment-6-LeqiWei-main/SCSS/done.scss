@@ -1,0 +1,41 @@
+//done page
+#DoneBlock {
+    width: 420px;
+    height: 400px;
+    display: none;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    background-color: white;
+    border-radius: 5px;
+    z-index: 2;
+    /*overflow: auto;*/
+}
+
+//The head and title of the done page
+#DoneHeader {
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+//done page main body
+#DoneMain {
+    height: 280px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dadee1;
+}
+
+#DoneMain p {
+    font-size: 20px;
+}
+
+#DoneMessage {
+    font-size: 20px;
+}

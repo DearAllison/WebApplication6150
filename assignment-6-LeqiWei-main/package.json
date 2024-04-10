@@ -1,0 +1,22 @@
+{
+  "name": "assignment-6-leqiwei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass SCSS/main.scss dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info-6150-spring-2023/assignment-6-LeqiWei.git"
+  },
+  "author": "Leqi Wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info-6150-spring-2023/assignment-6-LeqiWei/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info-6150-spring-2023/assignment-6-LeqiWei#readme",
+  "devDependencies": {
+    "sass": "^1.58.1"
+  }
+}

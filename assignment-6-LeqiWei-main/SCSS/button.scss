@@ -1,0 +1,147 @@
+//add button
+#add {
+    height: 30px;
+    width: 100px;
+    background-color: #8deb8d;
+    color: white;
+    border: 1px solid rgb(81, 201, 77);
+}
+
+//delete button 
+#del {
+    height: 30px;
+    width: 100px;
+    background-color: #faa5a2;
+    color: white;
+    border: 1px solid rgb(214, 59, 59);
+    margin-left: 5px;
+}
+
+//done button
+#done {
+    height: 30px;
+    width: 100px;
+    background-color: #e4d339;
+    color: white;
+    border: 1px solid rgb(156, 148, 25);
+    margin-left: 5px;
+}
+
+
+//pervious page button
+#previous {
+    height: 30px;
+    width: 75px;
+    background-color: #8fd1eb;
+    color: white;
+    border: 1px solid rgb(7, 94, 175);
+    float: right;
+}
+
+//next page button
+#next {
+    height: 30px;
+    width: 75px;
+    background-color: #8fd1eb;
+    color: white;
+    border: 1px solid rgb(7, 94, 175);
+    margin-left: 5px;
+    float: right;
+}
+
+//examine button
+#examine {
+    font-size: 16px;
+    height: 20px;
+    border: none;
+    color: rgb(125, 218, 137);
+    background: none;
+    /*background-color: #eef1f8;*/
+}
+
+//update button
+#update {
+    font-size: 16px;
+    height: 20px;
+    border: none;
+    color: rgb(228, 200, 108);
+    background: none;
+    /*background-color: #eef1f8;*/
+}
+
+//finish button
+#done1 {
+    font-size: 16px;
+    height: 20px;
+    border: none;
+    color: rgb(228, 156, 108);
+    background: none;
+    /*background-color: #eef1f8;*/
+}
+
+//submit button
+#submit {
+    height: 30px;
+    width: 75px;
+    background-color: #5cb85c;
+    color: black;
+    border: 1px solid #dadee1;
+}
+
+//the cancel button in add page
+#addCancel {
+    height: 30px;
+    width: 75px;
+    background-color: white;
+    color: black;
+    border: 1px solid #dadee1;
+    margin-left: 5px;
+}
+
+//save button
+#preservation {
+    height: 30px;
+    width: 75px;
+    background-color: #5cb85c;
+    color: black;
+    border: 1px solid #dadee1;
+}
+
+//the cancel button in update page
+#updateCancel {
+    height: 30px;
+    width: 75px;
+    background-color: white;
+    color: black;
+    border: 1px solid #dadee1;
+    margin-left: 5px;
+}
+
+//the cancel button in examine page
+#examineCancel {
+    height: 30px;
+    width: 75px;
+    background-color: white;
+    color: black;
+    border: 1px solid #dadee1;
+    /*margin-left: 5px;*/
+}
+
+//confirm button
+#confirm {
+    height: 30px;
+    width: 75px;
+    background-color: #5cb85c;
+    color: black;
+    border: 1px solid #dadee1;
+}
+
+//the cancel button in delete page
+#delCancel {
+    height: 30px;
+    width: 75px;
+    background-color: white;
+    color: black;
+    border: 1px solid #dadee1;
+    margin-left: 5px;
+}

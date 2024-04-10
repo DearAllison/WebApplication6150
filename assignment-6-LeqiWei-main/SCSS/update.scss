@@ -1,0 +1,56 @@
+//update page form
+#updateBlock {
+    width: 420px;
+    height: 400px;
+    display: none;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    background-color: white;
+    border-radius: 5px;
+    z-index: 2;
+    /*overflow: auto;*/
+}
+
+//The head and title of the update page
+#updateHeader {
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+///update page main body
+#updateMain {
+    height: 290px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dadee1;
+}
+
+#updateMain table {
+    width: 400px;
+}
+
+#updateMain tr {
+    height: 40px;
+}
+
+.updateTableTd1 {
+    padding-left: 15px;
+    width: 120px;
+    text-align: right;
+}
+
+.updateTableTd2 {
+    padding-left: 20px;
+    width: 250px;
+    text-align: left;
+}
+
+.updateTableTd2 input {
+    width: 150px;
+}
