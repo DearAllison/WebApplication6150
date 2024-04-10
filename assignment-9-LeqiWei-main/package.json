@@ -1,0 +1,26 @@
+{
+  "name": "assignment-9-leqiwei",
+  "version": "1.0.0",
+  "description": "assignment-9",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info-6150-spring-2023/assignment-9-LeqiWei.git"
+  },
+  "author": "Leqi Wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info-6150-spring-2023/assignment-9-LeqiWei/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info-6150-spring-2023/assignment-9-LeqiWei#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
